@@ -12,7 +12,7 @@ PyTorch Implementation For Style Transfer Algorithms
 Transfering style gives beautiful artistic results:
 
 <p align="center">
-<img src="data/example/cat.JPG" with="270px">
-<img src="data/example/vg_self.jpg" with="270px">
-<img src="data/example/cat_with_style.jpg" with="270px">
+<img src="data/example/cat.JPG" height="200px">
+<img src="data/example/vg_self.jpg" height="200px">
+<img src="data/example/cat_with_style.jpg" height="200px">
 </p>
